@@ -1,0 +1,55 @@
+
+.headingtitle
+{
+    text-align:center;
+    font-weight: bold;
+    font-size: 26px;
+}
+
+.cardssec
+{
+display:flex;
+padding-left: 00px;
+padding-right: 00px;
+}
+
+.card
+{
+
+margin: 40px;
+} 
+
+.card-title
+{
+    font-size: 25px;
+    font-weight: bold;
+    text-align:center;
+}
+.card-text
+{
+    font-size:medium;
+    font-weight: bold;
+    text-align:center;
+}
+
+.btn1{
+
+	display:inline-block;
+	background:#2a2a2a;
+	color:white;
+	border-radius: 5px;
+    margin:20px;
+    margin-left: 110px;
+    padding:8px 15px;
+    font-size: 20px;
+    text-align: center;
+	transition:background 0.5s;
+
+}
+
+.btn1:hover
+{
+	background:#563434;
+	color:white;
+
+}

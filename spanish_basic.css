@@ -1,0 +1,28 @@
+/*Downloaded from https://www.codeseek.co/mikethedj4/text-to-speech-with-responsivevoicejs-OXxWXK */
+textarea {
+    resize: vertical;
+  }
+  
+  .voice{
+      display:none;
+  }
+  .voice textarea{
+    display:none;
+  }
+
+  .alpha{
+    display:none;
+}
+
+.table{
+  text-align: center;
+}
+
+.table  th{
+  font-size: large;
+
+}
+.table  td{
+  font-size: large;
+
+}

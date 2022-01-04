@@ -1,0 +1,83 @@
+body 
+{
+	font-family: 'Poppins', sans-serif;
+	background: rgb(255,255,255);
+background: linear-gradient(0deg, rgba(255,255,255,1) 0%, rgba(68,67,69,1) 100%);
+}
+
+.about-content
+{
+	font-family: 'Poppins', sans-serif;
+	text-align:center;
+
+	color:white;
+	
+}
+
+#logo
+{
+	border:3px solid #F6E3BD ;
+}
+
+/*----- About Us Box------*/
+.about-box
+{
+	display:flex;
+}
+.abt
+{
+	margin:40px 40px;
+	background-color:black;
+	color:white;
+	border:3px solid #F6E3BD ;
+	padding-bottom:20px;
+}
+
+.abt img
+{
+	width:250px;
+	height:300px;
+	margin:30px;
+	border:3px solid #F6E3BD;
+	flex-basis:30%;
+
+}
+
+.para
+{
+
+	font-size:25px;
+	font-weight: bold;
+	padding:20px 20px;
+	margin:10px 10px;
+	/*color:#F6E3BD;*/
+}
+
+
+.icons span
+{
+	font-size:50px;
+	padding-top:20px;
+	padding-left:205px;
+	padding-right:205px;
+}
+
+.icontxt span
+{
+	font-size:20px;
+	font-weight: bold;
+	padding-left:110px;
+	padding-right:110px;
+	color:#F6E3BD;
+}
+
+.icontxt1 span
+{
+	font-size:15px;
+	padding-left:50px;
+	padding-right:70px;
+
+}
+
+
+

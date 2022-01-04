@@ -1,0 +1,46 @@
+.ib{
+    width: 52px;
+  
+}
+.f
+{
+    display: flex;
+}
+.table{
+    text-align: center;
+}
+
+.table  th{
+    font-size: large;
+
+}
+.table  td{
+    font-size: large;
+
+}
+
+.phrase ul li{
+    font-size: 25px;
+}
+
+.num{
+    display: flex;
+}
+
+.quizbtn{
+    display:inline-block;
+	background:#2a2a2a;
+	color:white;
+	border-radius: 5px;
+    margin:20px;
+    margin-left:440px;
+    padding:15px 15px;
+    font-size: 55px;
+    text-align: center;
+	align-items: center;
+}
+
+.list-group-item{
+    font-weight: bold;
+    font-size: 15px;
+}

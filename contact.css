@@ -1,0 +1,130 @@
+body 
+{
+	font-family: 'Poppins', sans-serif;
+	background: rgb(255,255,255);
+background: linear-gradient(0deg, rgba(255,255,255,1) 0%, rgba(68,67,69,1) 100%);
+}
+
+/*Contact us main*/
+.contact-content
+{
+	font-family: 'Poppins', sans-serif;
+	text-align:center;
+
+	color:white;
+	
+}
+
+#logo
+{
+	border:3px solid #F6E3BD ;
+}
+
+/*---- Feedback -----*/
+.contact-top
+{
+
+	margin:40px 40px;
+	background-color:black;
+	color:white;
+	border:3px solid #F6E3BD ;
+}
+
+
+label
+{
+		padding:50px 50px;
+		padding-top:25px;
+		transition:0.5s;
+
+}
+
+.fd
+{
+	padding:50px 50px;
+}
+.input-feed
+{
+	display:inline-flex;
+
+}
+input
+{
+	border:none;
+	border-bottom:2px solid #F6E3BD ;
+	padding:20px 20px;
+	padding-bottom:10px;
+	background-color:black;
+	margin:0px;
+	position:relative;
+	height:65px;
+	transition:0.5s;
+
+}
+
+.i1
+{
+	padding-bottom:60px;
+}
+
+#txtar
+{
+	padding:20px;
+	color:white;
+	background-color:black;
+		border:3px solid #F6E3BD ;
+}
+
+
+#conbtn
+{
+	background-color:grey;
+	border-radius:0px;
+	width:10%;
+	text-align:center;
+	border-bottom:0px;
+}
+
+
+/*-----Reach us----*/
+.contact-bottom
+{
+
+	margin:40px 40px;
+	background-color:black;
+	color:white;
+	padding-top:10px;
+	padding-bottom:15px;
+	border:3px solid #F6E3BD ;
+
+
+}
+
+
+.reach-icons span
+{
+	display:inline-flex;
+	font-size: 50px;
+	padding-left:200px;
+	padding-right:200px;
+	padding-top:50px;
+	
+}
+
+.reach-icons p
+{
+	color:#F6E3BD;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+

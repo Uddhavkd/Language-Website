@@ -1,0 +1,129 @@
+*
+{
+	margin:0;
+	padding:0;
+}
+
+
+
+body 
+{
+	font-family: 'Poppins', sans-serif;
+
+}
+	
+}
+
+a{
+	color:black;
+	
+}
+
+
+
+/*Top Navigation Bar*/
+.top-navbar
+{
+	height:70px;
+	background:black ;
+	top:0;
+	margin-bottom:0px ;
+	/*border-bottom:3px solid #F6E3BD ;*/
+	
+}
+
+.mainlogo
+{
+	height:65px;	
+	width:160px;
+}
+
+.logo
+{
+	height:65px;	
+
+}
+
+
+.search-box 
+{
+	display:inline-flex;
+	width:60%;
+
+	
+}
+
+.free{
+	text-align:center;
+	color:white;
+	padding:25px 80px;
+	font-weight:bold;
+	font-size:15px;
+}
+
+.menu-bar
+{
+	height:65px;
+	width:40%;
+	float:right;
+	position:sticky;
+		
+}
+
+.menu-bar-list
+{
+	display:inline-flex;
+	color:white;
+	float:right;
+	list-style-type:none;
+
+}
+
+.menu-bar-list li
+{
+	/*border-left:2px solid ##bd2bf2;*/
+	text-align:center;	
+	padding:23px 35px;
+}
+.menu-bar-list li a 
+{
+	color:white;;
+}
+
+
+/*Main Menu*/
+.mainmenu-bar
+{
+	border-bottom:none; 
+	height:60px;
+	/*border-bottom:3px solid #F6E3BD;*/
+	background-color:white;
+	text-align:center;
+
+}
+
+.mainmenu-bar ul
+{
+	
+}
+.mainmenu-bar ul li
+{
+	display:inline-flex;
+	list-style-type:none;
+	padding:10px 50px;
+	font-size:25px;
+	font-weight: bold;
+	color:black;
+}
+.mainmenu-bar ul li a
+{
+	color:black;
+}
+/* ..................header................*/
+
+
+.head{
+	font-family: 'Poppins', sans-serif;
+
+	
+}
